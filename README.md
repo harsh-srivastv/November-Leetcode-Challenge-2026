@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3693-climbing-stairs-ii) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->

@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harsh-srivastv/November-Leetcode-Challenge-2026/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
